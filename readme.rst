@@ -1,5 +1,5 @@
-Jeudi
-=====
+Thursday
+=========
 
 KeyNote
 -------
@@ -89,6 +89,9 @@ Lachez votre java et venez prendre un peu l'R
 R est efficace pour les statistiques (by design)
 Not only => tableau de bord joli
 
+Friday
+=======
+
 Code And Deploy angular to the Cloud
 -------------------------------------
 @jawache
@@ -137,8 +140,7 @@ lazy <=> lateinit
 Library for Adnroid dev:
 
 * `kotterknife <https://github.com/JakeWharton/kotterknife>`_. (delegate using 'by')
-* `anko commons <<https://github.com/JakeWharton/kotterknife>`_>`_: tools with helpers like Intent / Dialog /etc
-* anko logger
+* `anko commons and logging <https://github.com/Kotlin/anko>`_: tools with helpers like Intent / Dialog /etc
 
 Resources:
 
